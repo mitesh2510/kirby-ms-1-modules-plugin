@@ -8,7 +8,6 @@
   <?php endforeach ?>
 </ul>
 <h1><?php echo $page->title()->html() ?></h1>
-<?php echo $kirby->plugin('sortable'); ?>
 <?php modules($page) ?>
 <?php foreach($page->moduleList() as $p): ?>
 

@@ -1,0 +1,12 @@
+title: Default
+pages:
+  template: default
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+files: true
+fields:
+  title:
+    label: Module Name
+    type:  text

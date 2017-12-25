@@ -1,0 +1,17 @@
+Title: car 1 with text module
+
+----
+
+Text: this text from module description
+
+----
+
+Modulesettings: 
+
+----
+
+Width: large
+
+----
+
+Fontsize: intro

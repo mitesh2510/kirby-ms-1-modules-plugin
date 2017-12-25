@@ -1,0 +1,17 @@
+Title: second text module
+
+----
+
+Text: this text from second text module
+
+----
+
+Modulesettings: 
+
+----
+
+Width: small
+
+----
+
+Fontsize: default

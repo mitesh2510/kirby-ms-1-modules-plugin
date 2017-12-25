@@ -1,0 +1,26 @@
+title: Modules
+pages:
+  template:
+    - module.text
+    - module.gallery
+fields:
+  title:
+    label: Title
+    type:  text
+
+  sortable:
+    label: Sortable
+    type:  sortable
+
+    sortable: true
+
+    layout:  base
+    variant: null
+
+    limit: false
+
+    parent: null
+    prefix: null
+
+    options:
+      limit: false

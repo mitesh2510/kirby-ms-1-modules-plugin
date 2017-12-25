@@ -1,0 +1,9 @@
+Title: This is second module
+
+----
+
+Text: 
+
+----
+
+Modules: second-gallery-module, second-text-module
